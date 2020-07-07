@@ -11,3 +11,6 @@ enabled = true
 name = "terraform"
 enabled = true
 
+[[transformers]]
+name = "black"
+enabled = true
